@@ -1,4 +1,4 @@
-# BattleBall-
+# BattleBall
 UE4 Local Multi Two-Player Game
 
 # Play
