@@ -14,7 +14,7 @@ Local Multi Two-Player Game
 
 # 4.説明
 ・２人での対戦ゲーム  
-・相手の狙って弾き飛ばせ！  
+・相手を狙って弾き飛ばせ！  
 
 # 5.Connect
 ・Twitter: @Ya_konpota
